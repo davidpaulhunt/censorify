@@ -1,0 +1,11 @@
+{
+  "author": "David Hunt",
+  "name": "censorify",
+  "version": "0.0.1",
+  "description": "my first node app",
+  "main": "censortext",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
